@@ -1,7 +1,7 @@
 function initMap() {
     const AUS_BOUNDS = {
         north: -10.66,
-        south: -43.63,
+        south: -43.85,
         west: 113.338,
         east: 153.57,
     };
